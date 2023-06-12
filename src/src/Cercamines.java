@@ -41,6 +41,13 @@ public class Cercamines {
         System.out.println();
     }
 
+    public static void colocarmines(){
+
+
+
+
+    }
+
 }
 
 
